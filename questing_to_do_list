@@ -1,0 +1,14 @@
+#place holder
+
+
+TO DO (OdinVanguard - work in progress):
+-Finish "spirit" quest line
+-Implement "checkpoints" system to record HP, deck, etc. between quests
+-Quest reward system (may require a bit of tweaking in UI.main)
+-Set up quest line branching UI screen
+
+
+TO DO (others can post suggestions here)
+
+
+FINISHED (as of latest push)
